@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmRiyaz-py
 - 👀 I’m interested in DataScience and WebDevelopment
-- 🌱 I’m currently learning ReactJS & DataScience
+- 🌱 I’m currently learning DataScience & ReactJS
 - 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me - ammar.riyaz@gmail.com
 
